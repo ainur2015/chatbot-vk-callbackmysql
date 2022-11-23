@@ -1,5 +1,6 @@
 # chatbot-vk-callbackmysql
 Чат менеджер, помощник для бесед VK . Callback Mysql.
+- PHP7.3
 
 # Команды самого чат-менеджера:
 
